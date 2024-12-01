@@ -1,4 +1,4 @@
-# bootcamp_app
+# Flutter-FindHouseApp
 
 Creating Flutter project through my Bootcamp, I was successfully creating a Find House App.
 
