@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248040288426",
+    "project_id": "bootcamp-app-ee592",
+    "storage_bucket": "bootcamp-app-ee592.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248040288426:android:c48386c54b48e807c420d3",
+        "android_client_info": {
+          "package_name": "com.example.bootcamp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9PIL3kDT-U0aWeUC8KA9VPzWVTHtqjtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
